@@ -1,0 +1,2 @@
+# DiscordCustomFontPyEdition
+DiscordCustomFontPyEdition by RimisiusDev
